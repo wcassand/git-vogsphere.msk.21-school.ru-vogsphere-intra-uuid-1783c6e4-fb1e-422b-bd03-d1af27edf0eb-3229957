@@ -1,0 +1,5 @@
+Credentials cache: API:051219C1-D72A-4934-925C-9B1CA4AD41E1
+        Principal: wcassand@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Jul 13 18:35:12 2020  Jul 14 04:35:01 2020  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
